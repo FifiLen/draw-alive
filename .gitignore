@@ -1,0 +1,15 @@
+# Ignore Unreal Engine folders
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+Binaries/
+
+# Ignore large assets
+*.uasset
+*.umap
+*.gch
+*.json
+
+# Ignore macOS-specific files
+.DS_Store
